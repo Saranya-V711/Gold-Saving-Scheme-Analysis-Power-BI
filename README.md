@@ -1,6 +1,3 @@
-# Gold-Saving-Scheme-Analysis-Power-BI
-Power BI dashboard analyzing gold saving schemes, investment trends, scheme duration, and customer insights.
-
 **Gold Saving Scheme Analysis Dashboard | Power BI Project**
 
 I am excited to share my latest **Data Analyst project** where I analyzed gold saving schemes offered by various companies using Microsoft Power BI 📊

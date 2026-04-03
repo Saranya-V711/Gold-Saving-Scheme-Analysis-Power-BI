@@ -1,0 +1,151 @@
+"Company Name,CityState,Scheme Name,Minimum Monthly Amount,Duration,Bonus Month,Discount %,Gold Rate Lock,Online / Offline,Customer Rating,Industry Category"
+
+"Tanishq,Mumbai Maharashtra,Golden Harvest,2000,10,0.75,0,No,Both,4.8,Jewellery store apps"
+
+"Malabar Gold,Calicut Kerala,Golden Bloom,1000,11,1,18,No,Both,4.7,Jewellery store apps"
+
+"Kalyan Jewellers,Thrissur Kerala,Dhanvarsha,500,11,1,0,No,Both,4.5,Jewellery store apps"
+
+"GRT Jewellers,Chennai Tamil Nadu,Golden Eleven Flexi,500,11,1,100,No,Both,4.8,Jewellery store apps"
+
+"Joyalukkas,Thrissur Kerala,Easy Gold,1000,10,1,100,No,Both,4.6,Jewellery store apps"
+
+"Senco Gold,Kolkata West Bengal,Swarna Yojana,1000,11,1,0,No,Both,4.4,Jewellery store apps"
+
+"Reliance Jewels,Mumbai Maharashtra,Golden Steps,1000,11,0.75,0,No,Both,4.5,Jewellery store apps"
+
+"Bhima Gold,Bengaluru Karnataka,Golden Key,5000,11,0.5,100,No,Online,4.6,Jewellery store apps"
+
+"Jos Alukkas,Thrissur Kerala,Gold Purchase,1000,12,1,100,No,Both,4.4,Jewellery store apps"
+
+"Lalithaa Jewelry,Chennai Tamil Nadu,11 Months Scheme,1000,11,1,100,Yes,Offline,4.9,Jewellery store apps"
+
+"PC Jeweller,Delhi Delhi,Azadi Scheme,2000,10,1,0,No,Both,4.1,Jewellery store apps"
+
+"Khazana,Chennai Tamil Nadu,Gold Scheme,1000,11,1,100,No,Offline,4.3,Jewellery store apps"
+
+"Nippon India,Mumbai Maharashtra,Gold BeES ETF,100,0,0,0,Yes,Online,4.7,Digital gold wallets"
+
+"ICICI Prudential,Mumbai Maharashtra,Gold ETF,100,0,0,0,Yes,Online,4.6,Digital gold wallets"
+
+"SBI Mutual,Mumbai Maharashtra,Gold ETF,100,0,0,0,Yes,Online,4.5,Digital gold wallets"
+
+"HDFC Mutual,Mumbai Maharashtra,Gold ETF,100,0,0,0,Yes,Online,4.6,Digital gold wallets"
+
+"Gullak,Bengaluru Karnataka,Gullak Gold+,10,0,0,0,Yes,Online,4.7,Smart Gold apps"
+
+"Jar App,Bengaluru Karnataka,Daily Savings,10,0,0,0,Yes,Online,4.3,Smart Gold apps"
+
+"PhonePe,Bengaluru Karnataka,SafeGold Plan,1,0,0,0,Yes,Online,4.5,Digital gold wallets"
+
+"Google Pay,Gurugram Haryana,MMTC-PAMP Plan,1,0,0,0,Yes,Online,4.5,Digital gold wallets"
+
+"RBI SGB 2023-24 IV,Pan India,Sovereign Gold Bond,6263,96,0,0,Yes,Online,4.9,Smart Gold apps"
+
+"RBI SGB 2023-24 III,Pan India,Sovereign Gold Bond,6199,96,0,0,Yes,Online,4.9,Smart Gold apps"
+
+"RBI SGB 2022-23 IV,Pan India,Sovereign Gold Bond,5611,96,0,0,Yes,Online,4.8,Smart Gold apps"
+
+"PNG Jewellers,Pune Maharashtra,Suvarna Poornima,3000,11,1,10,No,Both,4.6,Jewellery store apps"
+
+"Thangamayil,Madurai Tamil Nadu,Super Gold,1000,11,0.75,75,Yes,Both,4.4,Jewellery store apps"
+
+"Waman Hari Pethe,Mumbai Maharashtra,Sanchay Plan,1000,12,1,0,No,Offline,4.5,Jewellery store apps"
+
+"BlueStone,Bengaluru Karnataka,GMS Plan,2000,10,1,0,No,Online,4.6,Smart Gold apps"
+
+"CaratLane,Chennai Tamil Nadu,Poppy Plan,1000,12,0,1.5,No,Online,4.7,Smart Gold apps"
+
+"Kirtilals,Coimbatore Tamil Nadu,Suvarna Plus,5000,11,1,0,Yes,Offline,4.7,Jewellery store apps"
+
+"Abaran Timeless,Bengaluru Karnataka,Gold Save,10000,12,1,0,Yes,Offline,4.5,Jewellery store apps"
+
+"Muthoot Pappachan,Kochi Kerala,Swarnavarsham,1000,11,1,0,No,Online,4.2,Digital gold wallets"
+
+"Prince Jewellery,Chennai Tamil Nadu,Gold Plus,3000,11,1,0,Yes,Offline,4.5,Jewellery store apps"
+
+"Navrathan Jewellers,Bengaluru Karnataka,Royal Gold,10000,12,1,0.5,Yes,Offline,4.8,Jewellery store apps"
+
+"Sri Krishna Jewellers,Hyderabad Telangana,Diamond Gold Plan,5000,11,1,0,Yes,Offline,4.4,Jewellery store apps"
+
+"Vaibhav Jewellers,Visakhapatnam Andhra Pradesh,Free Gold Scheme,1000,11,1,0,Yes,Offline,4.4,Jewellery store apps"
+
+"Tribhovandas Bhimji,Pune Maharashtra,Kalpavruksha,2000,10,1,0.5,No,Online,4.5,Jewellery store apps"
+
+"Khazana Jewellery,Warangal Telangana,Monthly Saving,2000,11,1,0,Yes,Offline,4.5,Jewellery store apps"
+
+"Manappuram Finance,Thrissur Kerala,Gold Savings,1000,12,0,0,No,Online,4.0,Digital gold wallets"
+
+"Augmont,Mumbai Maharashtra,Digi Gold,1,0,0,0,Yes,Online,4.2,Digital gold wallets"
+
+"SafeGold,Mumbai Maharashtra,Digital Gold,10,0,0,0,Yes,Online,4.4,Digital gold wallets"
+
+"Vummidi Bangaru,Chennai Tamil Nadu,Gold Scheme,5000,11,1,0,No,Offline,4.7,Jewellery store apps"
+
+"GRT Jewellers,Mysore Karnataka,Golden Eleven,1000,11,1,100,No,Both,4.8,Jewellery store apps"
+
+"Tanishq,Kolkata West Bengal,Golden Harvest,2000,10,0.75,0,No,Both,4.8,Jewellery store apps"
+
+"Kalyan Jewellers,Vijayawada Andhra Pradesh,Dhanvarsha,2000,12,1,0,No,Both,4.4,Jewellery store apps"
+
+"Joyalukkas,Madurai Tamil Nadu,Easy Gold,2500,10,1,100,No,Both,4.5,Jewellery store apps"
+
+"Malabar Gold,Lucknow Uttar Pradesh,Golden Bloom,3000,11,1,15,No,Both,4.6,Jewellery store apps"
+
+"Senco Gold,Bhubaneswar Odisha,Swarna Yojana,1500,11,1,0,No,Offline,4.3,Jewellery store apps"
+
+"Bhima Jewellers,Kannur Kerala,Swarna Nidhi,3000,12,1,0,Yes,Offline,4.7,Jewellery store apps"
+
+"Lalitha Jewellery,Tirunelveli Tamil Nadu,Eleven Month Scheme,3000,11,1,0,Yes,Offline,4.8,Jewellery store apps"
+
+"CaratLane,Pune Maharashtra,Poppy Plan,2000,12,0,1.5,No,Online,4.8,Smart Gold apps"
+
+"BlueStone,Hyderabad Telangana,GMS Plan,2000,10,1,0,No,Online,4.7,Smart Gold apps"
+
+"Kirtilals,Hyderabad Telangana,Suvarna Plus,10000,11,1,0,Yes,Offline,4.8,Jewellery store apps"
+
+"Abaran Timeless,Shimoga Karnataka,Gold Save,2000,12,1,0,Yes,Offline,4.4,Jewellery store apps"
+
+"Khazana Jewellery,Kurnool Andhra Pradesh,Monthly Saving,5000,11,1,0,Yes,Offline,4.6,Jewellery store apps"
+
+"Jos Alukkas,Palakkad Kerala,Easy Buy,5000,12,1,0,Yes,Online,4.6,Jewellery store apps"
+
+"Senco Gold,Agartala Tripura,Swarna Yojana,1000,11,1,0,No,Online,4.2,Jewellery store apps"
+
+"Reliance Jewels,Jamnagar Gujarat,Golden Steps,1000,11,0.75,0,No,Both,4.3,Jewellery store apps"
+
+"GRT Jewellers,Thanjavur Tamil Nadu,Golden Eleven,5000,11,1,0,Yes,Offline,4.9,Jewellery store apps"
+
+"Tanishq,Dehradun Uttarakhand,Golden Harvest,2000,10,0.75,0,No,Both,4.7,Jewellery store apps"
+
+"Kalyan Jewellers,Shimla Himachal Pradesh,Dhanvarsha,1000,12,1,0,No,Both,4.3,Jewellery store apps"
+
+"Senco Gold,Asansol West Bengal,Swarna Yojana,500,11,1,0,No,Online,4.1,Jewellery store apps"
+
+"PC Jeweller,Agra Uttar Pradesh,Jewel for Less,5000,12,1,0,Yes,Offline,4.1,Jewellery store apps"
+
+"Joyalukkas,Hubli Karnataka,Easy Gold,1000,10,1,100,No,Both,4.4,Jewellery store apps"
+
+"GRT Jewellers,Salem Tamil Nadu,Golden Eleven,3000,11,1,0,Yes,Offline,4.8,Jewellery store apps"
+
+"Lalitha Jewellery,Hosur Tamil Nadu,Eleven Month Scheme,1000,11,1,0,Yes,Offline,4.9,Jewellery store apps"
+
+"Bhima Jewellers,Udupi Karnataka,Swarna Nidhi,2000,12,1,0,Yes,Offline,4.7,Jewellery store apps"
+
+"Jos Alukkas,Trichy Tamil Nadu,Easy Buy,3000,12,1,0,Yes,Online,4.5,Jewellery store apps"
+
+"BlueStone,Ahmedabad Gujarat,GMS Plan,5000,10,1,0,No,Online,4.6,Smart Gold apps"
+
+"Vaibhav Jewellers,Vijayawada Andhra Pradesh,Free Gold Scheme,2000,11,1,0,Yes,Online,4.5,Jewellery store apps"
+
+"Tribhovandas Bhimji,Solapur Maharashtra,Kalpavruksha,3000,10,1,0.5,No,Online,4.4,Jewellery store apps"
+
+"Muthoot Pappachan,Trivandrum Kerala,Swarnavarsham,5000,11,1,0,No,Online,4.3,Digital gold wallets"
+
+"Digigold,Bengaluru Karnataka,Savings Plan,100,0,0,0,Yes,Online,4.2,Smart Gold apps"
+
+"Wint Wealth,Mumbai Maharashtra,Gold Bonds,1000,0,0,0,Yes,Online,4.5,Smart Gold apps"
+
+"Paytm Gold,Noida Uttar Pradesh,Digital Gold,1,0,0,0,Yes,Online,4.4,Digital gold wallets"
+
+"Karat 24,Pune Maharashtra,Savings,100,11,1,0,No,Online,4.3,Smart Gold apps"
